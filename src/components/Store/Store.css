@@ -1,0 +1,13 @@
+.wrapper {
+    max-width: 1200px;
+    width: 100%;
+    margin: 50px auto;
+    padding: 0 15px;
+}
+
+.icon-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 20px;
+}
